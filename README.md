@@ -14,8 +14,10 @@
 ## Demo
 Link: [https://drinkingwaterpotability.herokuapp.com/](https://drinkingwaterpotability.herokuapp.com/)
 
+## Youtube
 [![IBM Coursera Advanced Data Science Capstone – HRISHIKESH KINI](http://img.youtube.com/vi/9fGcEExGdQQ/0.jpg)](http://www.youtube.com/watch?v=9fGcEExGdQQ "IBM Coursera Advanced Data Science Capstone – HRISHIKESH KINI")
 
+## Screenshots
 ![Screenshot](Capture.PNG)
 ![Screenshot](Capture2.PNG)
 
